@@ -1,3 +1,9 @@
+/*
+COVID-19 Data Exploration
+
+Skills used: Aggregate functions, Joins, Window Functions, Casting Data types, CTES, Temp Tables, View Creation
+*/
+
 SELECT * 
 FROM CovidDeaths
 WHERE continent IS NOT NULL
